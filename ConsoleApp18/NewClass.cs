@@ -6,5 +6,6 @@ namespace ConsoleApp18
 {
     class NewClass
     {
+        void praznaMetoda() { }
     }
 }
